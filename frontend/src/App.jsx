@@ -22,6 +22,7 @@ const RouteHandler = () => {
         <Route path="/" element={<Home />} />
         <Route path="signUp" element={<SignUp />} />
         <Route path="login" element={<Login />} />
+        [v4.7]
       </Routes>
     </>
   );
